@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0268-missing-number) |
+| [1046-last-stone-weight](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/1046-last-stone-weight) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 ## Hash Table
 |  |
@@ -52,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0234-palindrome-linked-list) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1046-last-stone-weight](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
