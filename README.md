@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0268-missing-number) |
 | [1046-last-stone-weight](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/1046-last-stone-weight) |
+| [1094-car-pooling](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/1094-car-pooling) |
 | [2104-sum-of-subarray-ranges](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 ## Hash Table
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0268-missing-number) |
+| [1094-car-pooling](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/1094-car-pooling) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 ## Linked List
 |  |
@@ -61,8 +63,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1046-last-stone-weight](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/1046-last-stone-weight) |
+| [1094-car-pooling](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/1094-car-pooling) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [2104-sum-of-subarray-ranges](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/2104-sum-of-subarray-ranges) |
+## Simulation
+|  |
+| ------- |
+| [1094-car-pooling](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/1094-car-pooling) |
+## Prefix Sum
+|  |
+| ------- |
+| [1094-car-pooling](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/1094-car-pooling) |
 <!---LeetCode Topics End-->
