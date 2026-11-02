@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0268-missing-number) |
 | [0658-find-k-closest-elements](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0658-find-k-closest-elements) |
 | [1046-last-stone-weight](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/1046-last-stone-weight) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0268-missing-number) |
 | [0658-find-k-closest-elements](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0658-find-k-closest-elements) |
 | [1094-car-pooling](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/1094-car-pooling) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0658-find-k-closest-elements) |
 | [1046-last-stone-weight](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/1094-car-pooling) |
@@ -85,4 +88,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0658-find-k-closest-elements) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
