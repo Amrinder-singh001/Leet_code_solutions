@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0268-missing-number) |
 | [0658-find-k-closest-elements](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0658-find-k-closest-elements) |
@@ -95,9 +96,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
