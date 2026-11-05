@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1046-last-stone-weight](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/1094-car-pooling) |
+| [1920-build-array-from-permutation](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/1920-build-array-from-permutation) |
 | [2104-sum-of-subarray-ranges](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 ## Hash Table
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1094-car-pooling](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/1094-car-pooling) |
+| [1920-build-array-from-permutation](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/1920-build-array-from-permutation) |
 ## Prefix Sum
 |  |
 | ------- |
