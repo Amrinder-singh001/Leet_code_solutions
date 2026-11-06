@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0268-missing-number) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0049-group-anagrams) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0268-missing-number) |
 ## Math
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0268-missing-number) |
 | [0658-find-k-closest-elements](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0658-find-k-closest-elements) |
@@ -108,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0053-maximum-subarray) |
+## String
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
