@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0234-palindrome-linked-list) |
 | [2104-sum-of-subarray-ranges](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/2104-sum-of-subarray-ranges) |
 ## Heap (Priority Queue)
@@ -116,5 +117,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0049-group-anagrams) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
