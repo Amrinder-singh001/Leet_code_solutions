@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0678-valid-parenthesis-string) |
+| [1864-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/1864-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 ## Two Pointers
 |  |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0049-group-anagrams) |
 | [0678-valid-parenthesis-string](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0678-valid-parenthesis-string) |
+| [1864-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/1864-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 ## Bracket Sequences
 |  |
 | ------- |
