@@ -77,12 +77,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0234-palindrome-linked-list) |
 | [0658-find-k-closest-elements](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0844-backspace-string-compare](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0844-backspace-string-compare) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0678-valid-parenthesis-string) |
+| [0844-backspace-string-compare](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0844-backspace-string-compare) |
 | [2104-sum-of-subarray-ranges](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/2104-sum-of-subarray-ranges) |
 ## Heap (Priority Queue)
 |  |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0844-backspace-string-compare) |
 | [1094-car-pooling](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/1094-car-pooling) |
 | [1920-build-array-from-permutation](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/1920-build-array-from-permutation) |
 ## Prefix Sum
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0049-group-anagrams) |
 | [0678-valid-parenthesis-string](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0678-valid-parenthesis-string) |
+| [0844-backspace-string-compare](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0844-backspace-string-compare) |
 | [1864-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/1864-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 ## Bracket Sequences
 |  |
