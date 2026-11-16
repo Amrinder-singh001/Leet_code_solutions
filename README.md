@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0053-maximum-subarray) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0049-group-anagrams) |
 | [0678-valid-parenthesis-string](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0678-valid-parenthesis-string) |
@@ -162,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0200-number-of-islands) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
