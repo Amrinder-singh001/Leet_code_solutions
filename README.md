@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0053-maximum-subarray) |
 | [0200-number-of-islands](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0200-number-of-islands) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0268-missing-number) |
 | [0658-find-k-closest-elements](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0658-find-k-closest-elements) |
