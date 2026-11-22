@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0977-squares-of-a-sorted-array](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0049-group-anagrams) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Math
 |  |
 | ------- |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1094-car-pooling](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/1094-car-pooling) |
 ## Sliding Window
 |  |
