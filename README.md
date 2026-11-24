@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0295-find-median-from-data-stream) |
 | [0658-find-k-closest-elements](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0977-squares-of-a-sorted-array](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0086-partition-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0234-palindrome-linked-list) |
+| [0295-find-median-from-data-stream](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0295-find-median-from-data-stream) |
 | [0658-find-k-closest-elements](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0844-backspace-string-compare](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0844-backspace-string-compare) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0295-find-median-from-data-stream) |
 | [0658-find-k-closest-elements](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0658-find-k-closest-elements) |
 | [1046-last-stone-weight](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/1094-car-pooling) |
@@ -177,4 +180,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0014-longest-common-prefix) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
