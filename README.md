@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0053-maximum-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0678-valid-parenthesis-string) |
+| [0818-race-car](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0818-race-car) |
 ## String
 |  |
 | ------- |
@@ -188,4 +189,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0295-find-median-from-data-stream) |
+## Heuristic Search
+|  |
+| ------- |
+| [0818-race-car](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0818-race-car) |
+## A* Search
+|  |
+| ------- |
+| [0818-race-car](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0818-race-car) |
 <!---LeetCode Topics End-->
