@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0058-length-of-last-word) |
 | [0678-valid-parenthesis-string](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/0844-backspace-string-compare) |
 | [1864-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/Amrinder-singh001/Leet_code_solutions/tree/master/1864-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
